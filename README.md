@@ -2,20 +2,20 @@
 
 ### Objective
 
-In this project, our main goal is to understand how to create pointer using dynamic memory allocation operators as followa:
+In this project, our main goal is to understand how to create pointers using dynamic memory allocation operators as follows:
 <br/>
 (new) and delete the pointer using (delete).
 
 ### Problem
 
-Create double pointer and perfoem the following operations on it:
+Create double pointer and perform the following operations on it:
 
 ### Implementation
 
 1. Declare double pointer using (new) dynamic memory operator.
-2. Assighn a value to the double pointer.
+2. Assign a value to the double pointer.
 3. Print the pointer value.
-4. Delete the pointer value using (delete) dynamic memory operator.
+4. Delete the pointer value using the (delete) dynamic memory operator.
 <br/>
 <br/>
   
@@ -34,7 +34,7 @@ int main(){
 
     /*
     Add your code here
-    2. Assighn a value to the double pointer;
+    2. Assign a value to the double pointer;
     */
 
     /*
