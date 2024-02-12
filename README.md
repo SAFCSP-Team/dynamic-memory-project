@@ -2,13 +2,11 @@
 
 ### Objective
 
-In this project, our main goal is to understand how to create pointers using dynamic memory allocation operators as follows:
+In this project, our main goal is to understand how to create and delete pointers using dynamic memory allocation operators.
 <br/>
-(new) and delete the pointer using (delete).
-
 ### Problem
 
-Create double pointer and perform the following operations on it:
+Create a pointer of type double and perform the following operations on it.
 
 ### Implementation
 
