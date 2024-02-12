@@ -12,8 +12,8 @@ Create double pointer and perform the following operations on it:
 
 ### Implementation
 
-1. Declare double pointer using (new) dynamic memory operator.
-2. Assign a value to the double pointer.
+1. Declare a pointer of type double using (new) dynamic memory operator.
+2. Assign a value to the pointer.
 3. Print the pointer value.
 4. Delete the pointer value using the (delete) dynamic memory operator.
 <br/>
