@@ -10,7 +10,7 @@ Create a pointer of type double and perform the following operations on it.
 
 ### Implementation
 
-1. Declare a pointer of type double using (new) dynamic memory operator.
+1. Declare a pointer of type double using the (new) dynamic memory operator.
 2. Assign a value to the pointer.
 3. Print the pointer value.
 4. Delete the pointer value using the (delete) dynamic memory operator.
@@ -27,7 +27,7 @@ int main(){
 
     /*
     Add your code here
-    1. declare double pointer using (new) dynamic memory operator
+    1. declare a double pointer using the (new) dynamic memory operator
     */
 
     /*
@@ -43,7 +43,7 @@ int main(){
 
     /*
     Add your code here
-    4. delete the pointer value using (delete) dynamic memory operator
+    4. delete the pointer value using the (delete) dynamic memory operator
     */    
 
     return 0;
